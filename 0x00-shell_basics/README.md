@@ -12,3 +12,4 @@ cd - going back to the previous working directory
 ls -la added command for showing hidden files and files in boot
 type shows the type of file in a directory
 ln s command for creating symbolic link
+cp -rua *html ../ copies all the HTML files from the current working directory to the parent of the working directory
