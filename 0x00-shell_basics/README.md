@@ -7,3 +7,4 @@ ls -lan display Long format with user and group IDs displayed numerically and hi
 mkdir command to make directory
 mv moving file from one directory to another
 rm command for removing a file from a directory
+rmdir command for removing a directory
