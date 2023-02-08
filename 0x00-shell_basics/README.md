@@ -5,3 +5,4 @@ ls -l display current directory contents in a long format
 ls -a display current directory contents, including hidden files
 ls -lan display Long format with user and group IDs displayed numerically and hidden files
 mkdir command to make directory
+mv moving file from one directory to another
