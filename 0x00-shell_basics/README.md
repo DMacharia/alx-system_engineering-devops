@@ -8,3 +8,4 @@ mkdir command to make directory
 mv moving file from one directory to another
 rm command for removing a file from a directory
 rmdir command for removing a directory
+cd - going back to the previous working directory
